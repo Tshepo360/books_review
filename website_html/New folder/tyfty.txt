@@ -1,0 +1,42 @@
+Ethical and professional issues in relation to Software Code of Ethics pertaining to software engineers
+Software engineers follows a set of principles that helps them to separate from the acceptable and unacceptable in their profession (Sommervile,2016), however these Principles classify the ethically responsible relationships in which individuals, groups, and organizations behave and the obligations within these relationships.
+According to Sommerville (2016) software engineers are committed to eight principles which governs their actions and behaviors, these eight principles are public, Client and employer, product, judgement, management, profession, colleagues and self. however there are times when the Principles conflict with the interest of others besides software engineers, for example public principle,  states that the software engineer should have the public’s interest as top priority, but that can change if  the senior management gives different instructions, for example the company is working on a certain project and they are under pressure due to time and budget, then the senior manager instructs a software engineer to skip the quality assurance step which determines if the product is fully ready for commercial use, the software engineer will have to decide whether to follow employment confidentiality by listening to his/her boss or follow the code of ethics and notify the public about the product. These are common challenges that software engineers go through.
+(Gotterbarn et al, 1997) states that the eight Principles of the Code of Ethics are more of a guidance rather than legislation, therefore not all software engineers follow them to the core and in some situations the principles do not complement each other which will require the software engineer to think outside the framework provided by the Code of Ethics  and sometimes might end up breaking one of the principles, for instance the principle on public and the principle on client and employer can clash if the software engineer has to develop technology for a client that has the potential to harm others such as nuclear or mass surveillance technology which both can be used for good or bad depending on who intends to use it.
+
+
+3. 
+End user awareness issues and negotiation techniques that are applied in the software process
+According to Zowghi (2015), involving end users in a software development process leads to a user satisfaction and a successful project system, as it gives software engineers a clear problem statement of user expectations, and it helps to develop appropriate strategies on how to tackle the issue.
+Software negotiation process can be a draining task, however one needs to read and understand the contract before rushing to purchase (Medved,2009). In addition to make a software negotiation process go smoothly one needs to consider these following steps.
+•	Take your time before deciding
+Ensure that you are well informed and understands the nature of the deal before signing on the dotted line. This will avoid misunderstandings which might cause problems in future between you and your software vendor. Take your time to familiarize yourself with the implementation process and compare what was asked with what was provided.
+
+•	Have a backup plan
+Have more than one possible software vendor so that you can have options on which deal suits your needs best.
+
+
+•	Negotiate everything
+Be bold to negotiate essentials such as software licensing, implementation prices, maintenance fees, terms of payment and implementation duration.
+
+•	Validate the requirements
+Ensure that each aspect of your requirements is checked and developed. Be sure that each requirement is aligned with the system, and it is well defined and does not conflict with the others.
+
+•	Plan for the future
+Ensure that your contract is future proofed, this means that your software vendor will have to make adjustment to the software one day should it happens that your company grows and needs a larger software or should the technology change.
+
+
+4Software process 
+According to Vallor (2010) Software processes are defined as procedures and techniques that are used to develop software inventions, or the system that are used by computers to perform tasks. He further stated that software process includes a set of interrelated activities, which transforms input into output.
+common challenges in relation to the software process
+developing a new software can be challenging and complicated, a little mistake can have a huge impact on your system.
+
+These common challenges involve:
+•	Poor communication
+Claude (2004) software requirements and objections needs to be communicated and discussed in a proper manner among team members and consumers. Poor communication can lead to fallout or software not meeting the user requirements.
+
+•	insufficient budget
+According to (Alhakami et al 2021) many companies are forced to work with little budget due to COVID19 outbreak, while other companies had to shut down business. Working with lower budget means lower resources or less infrastructure which can affect software process in a negative way.
+
+•	Ever-changing Technology
+We are living in a world where technology is rapidly changing and getting more advanced day by day, which can be challenging to developers, however, this causes high market pressure towards team members and it affects their performance (Covetus et al, 2019).
+
